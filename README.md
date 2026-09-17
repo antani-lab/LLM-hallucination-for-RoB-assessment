@@ -7,7 +7,27 @@
 1. Division of Intramural Research, National Library of Medicine, National Institutes of Health (NIH), Bethesda, MD, USA
 2. Division of Library Services, Office of Research Services, NIH, Bethesda, MD, USA
 
-\* Corresponding authors
+\* Corresponding authors <p>
+
+### Citation <p>
+Liang Z, Sheffield C, Butera G, Antani S. **Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in Large Language Model–Generated Medical Information: Empirical Study**  
+*JMIR AI*. 2026;5:e93761.  
+🔗 https://ai.jmir.org/2026/1/e93761 · doi: [10.2196/93761](https://doi.org/10.2196/93761)
+<p>
+If you use this work, please cite:
+
+```bibtex
+@article{liang2026rtv,
+  title   = {Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in Large Language Model--Generated Medical Information: Empirical Study},
+  author  = {Liang, Zhaohui and Sheffield, Cynthia and Butera, Gisela and Antani, Sameer},
+  journal = {JMIR AI},
+  volume  = {5},
+  pages   = {e93761},
+  year    = {2026},
+  doi     = {10.2196/93761},
+  url     = {https://ai.jmir.org/2026/1/e93761}
+}
+```
 
 ## Abstract
 
