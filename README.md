@@ -8,6 +8,7 @@
 2. Division of Library Services, Office of Research Services, NIH, Bethesda, MD, USA
 
 \* Corresponding authors
+📄 **Paper:** [Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in LLM-Generated Medical Information](https://ai.jmir.org/2026/1/e93761) (*JMIR AI*, 2026)
 
 ## Abstract
 
