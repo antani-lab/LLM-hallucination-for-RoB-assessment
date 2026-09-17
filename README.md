@@ -9,12 +9,11 @@
 
 \* Corresponding authors <p>
 
-**Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in Large Language Model–Generated Medical Information: Empirical Study**  
-Liang Z, Sheffield C, Butera G, Antani S. *JMIR AI*. 2026;5:e93761.  
+### Citation <p>
+Liang Z, Sheffield C, Butera G, Antani S. **Retrieve-Then-Verify for Evaluating Evidence Support and Hallucination in Large Language Model–Generated Medical Information: Empirical Study**  
+*JMIR AI*. 2026;5:e93761.  
 🔗 https://ai.jmir.org/2026/1/e93761 · doi: [10.2196/93761](https://doi.org/10.2196/93761)
 <p>
-### Citation
-
 If you use this work, please cite:
 
 ```bibtex
